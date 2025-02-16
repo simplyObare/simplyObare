@@ -9,7 +9,7 @@ I am a dedicated Fullstack Developer with a passion for crafting intuitive and v
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [OBARE.](http://addlater)
 * ✉️  You can contact me at [obareowiny@gmail.com](mailto:obareowiny@gmail.com)
-* 🧠  I'm learning django REST-framework and Graphql
+* 🧠  I'm learning Graphql to build efficient and scalable APIs
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I am an alien from the planet🪐 Omicron Persei 8
 
