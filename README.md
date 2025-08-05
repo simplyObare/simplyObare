@@ -1,34 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Josephat Obare
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Josephat Obare</h1>
+<h3 align="center">Web Designer | Figma, Framer & Frontend Developer</h3>
 
-Fullstack Developer | Django, React, Python
--------------------------------------------
+---
 
-I am a dedicated Fullstack Developer with a passion for crafting intuitive and visually appealing user interfaces using React, and building robust backend systems with Django. Proven ability to translate design concepts into functional and responsive web applications using modern technologies and best practices. Strong foundation in HTML, CSS, and JavaScript, with expertise in TypeScript and Tailwind CSS. Experienced in developing RESTful APIs with Django and integrating them seamlessly with frontend frameworks. Committed to delivering exceptional user experiences and staying up-to-date with the latest frontend and backend trends.
+- 🔭 I’m currently building creative UIs using **Figma**, **Framer**, and **React**  
+- 🌱 Improving my skills in **animation, microinteractions, and component systems**   
+- 💬 Ask me about: design systems, TailwindCSS, and building in Framer  
+- 📫 How to reach me: obareowiny@gmail.com  
+- 🌐 Portfolio: [your-framer-portfolio-link]
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [obareowiny@gmail.com](mailto:obareowiny@gmail.com)
-* 🧠  I'm learning about web design to improve my creative and technical skills.
-* 🤝  I'm open to collaborating on any interesting projects
-* ⚡  I am an alien from the planet🪐 Omicron Persei 8
+---
 
-### Skills
+### 🛠️ Tech Stack
+**Design:** Figma, Framer  
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, TailwindCSS, DaisyUI, Redux
 
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" title="Redux"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django"/></a>
-</p>
+### 📌 Projects
+- 🧪 **SaaS Landing Page** – Designed in Figma, built in Framer  
+- 🛍️ **E-commerce UI** – React + TailwindCSS  
+- 📱 **Mobile Task App UI** – Pure Figma design  
+- 🌐 **Portfolio Website** – Built with Framer  
+- 🏢 **Agency Homepage Design** – Figma + optional dev version
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/simplyObare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourusername)  
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourusername)  
+[![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/yourusername)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/simplyObare"><img src="https://github-readme-stats.vercel.app/api?username=simplyObare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="simplyObare's GitHub stats" /></a>
-
-<a href="http://www.github.com/simplyObare"><img src="https://github-readme-streak-stats.herokuapp.com/?user=simplyObare&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/simplyObare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplyObare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
